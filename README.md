@@ -237,9 +237,13 @@ Cenário 8: E-mail Já Cadastrado (Caso Negativo)
 
     OAuth (Open Authorization)
       
-    Descrição: OAuth é um padrão aberto de autorização, amplamente usado para permitir que os usuários concedam a um aplicativo acesso a seus dados em outro serviço sem compartilhar suas credenciais (nome de usuário e senha). Ele é ideal para quando uma API precisa acessar informações em nome de um usuário, com consentimento.
+    Descrição: OAuth é um padrão aberto de autorização, amplamente usado para permitir que os usuários concedam a um aplicativo acesso a seus dados em outro serviço 
+    sem compartilhar suas credenciais (nome de usuário e senha). Ele é ideal para quando uma API precisa acessar informações em nome de um usuário, com consentimento.
 
     API Key
       
-    Descrição: Uma API Key é uma chave de acesso única que o cliente fornece para se autenticar e obter acesso aos dados da API. A API Key é usada para identificar a aplicação ou o usuário que está realizando a chamada à API.
+    Descrição: Uma API Key é uma chave de acesso única que o cliente fornece para se autenticar e obter acesso aos dados da API. A API Key é usada para identificar a 
+    aplicação ou o usuário que está realizando a chamada à API.
+
+    
     
