@@ -23,11 +23,14 @@
 5. **Webdriver (ChromeDriver)**: Baixe o ChromeDriver compatível com a versão do seu navegador [aqui](https://chromedriver.chromium.org/downloads). Coloque o executável no PATH do sistema ou na pasta do projeto.
 6. 
     Obs: 
-7. **Execução dos testes**: Para executar o test
+7. **Execução dos testes**: Comando para executar o teste web
    ```
    robot -d ../results login_test.robot
    ```
-   
+8. **Execução dos teste**: Comando para executar o teste Api
+    ```
+   robot -d ../results api_test.robot
+   ```
 ## Teste teórico
 
   **Explique a diferença entre testes funcionais e testes de regressão.**
